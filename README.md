@@ -3,5 +3,5 @@
 ## Installation:
 
 ```aiignore
-git clone 
+git clone https://github.com/doanhXmai/ImageProcessing_Canny-Prewitt.git
 ```
