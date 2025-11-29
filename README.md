@@ -1,1 +1,7 @@
-# ImageProcessing_Canny-Prewitt
+# Canny and Prewitt:
+
+## Installation:
+
+```aiignore
+git clone 
+```
